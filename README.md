@@ -1,4 +1,4 @@
-Hi :) I'm Somi, a frontend developer/UI engineer!
+Hi :) I'm Somi, a frontend developer/UI engineer @Slid!
 
 @somangoi
 🏳️‍🌈👩‍💻🐈🧘‍♀️
