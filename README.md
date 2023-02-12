@@ -1,11 +1,10 @@
-<h2>Somi Hwang</h2>
+<h2>Somi Hwang - @somangoi</h2>
 
 ![Somangoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=somangoi&theme=tokyonight&show_icons=true)
 <br/>
 
 Hi, I'm Somi - an UI Engineer at [Slid](https://www.slid.cc/ko) and IT team leader of [Gongsamo](https://0044.notion.site/1bc5d7d240f94aa5a0264da605bf2ef3). Previously worked in international development field for poverty reduction in developing countries. Now as a web developer, I'm making real values by solving problems with my skills 😉
 
-<br/>
 <h2>Get in touch🫰</h2>
 <a href="https://somangoi.notion.site/Hello-world-I-m-Somi-3ad2c06957ce4919b41621ee9f70fd9c" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/somi-hwang/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
