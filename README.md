@@ -8,7 +8,6 @@ Hi, I'm Somi - an UI Engineer at [Slid](https://www.slid.cc/ko) and IT team lead
 <h2>Get in touch🫰</h2>
 <a href="https://www.somihwang.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/somi-hwang/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/somi.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto: somi.c.hwang@gmail.com" target="_blank"><img src="https://img.shields.io/badge/somi.c.hwang@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
 <br/>
 <br/>
