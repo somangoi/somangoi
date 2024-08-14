@@ -3,7 +3,7 @@
 ![Somangoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=somangoi&theme=tokyonight&show_icons=true)
 <br/>
 
-Hi, I'm Somi - an UI Engineer at [Slid](https://www.slid.cc/ko) and IT team leader of [Gongsamo](https://0044.notion.site/1bc5d7d240f94aa5a0264da605bf2ef3). Previously worked in international development field for poverty reduction in developing countries. Now as a web developer, I'm making real values by solving problems with my skills 😉
+Hi, I'm Somi - Frontend Hacker / UI Engineer at [Slid](https://www.slid.cc/ko) and IT team leader of [Gongsamo](https://0044.notion.site/1bc5d7d240f94aa5a0264da605bf2ef3). Previously worked in international development field for poverty reduction in developing countries. Now as a web developer, I'm making real values by solving problems with my skills 😉
 
 <h2>Get in touch🫰</h2>
 <a href="https://www.somihwang.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logoColor=white"/></a>
